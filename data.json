@@ -1,0 +1,153 @@
+[
+  {
+    "address": "Siddhartha colony, Chembur Naka, Mumbai",
+    "hours": "10AM-6PM",
+    "name": "Aditya Birla Centre for Welfare of children",
+    "phone": "912225222863",
+    "stock": 30,
+    "lat": "19.04878",
+    "long": "72.90587",
+    "need": 40
+  }, 
+{
+    "address": "Lajpat Nagar, New Delhi",
+    "hours": "6PM-9PM",
+    "lat": "28.542422",
+    "long": "77.253355",
+    "name": "Miracle Foundation",
+    "need": 20,
+    "phone": "67584692764352",
+    "stock": 10
+  },
+  {
+    "address": "Opposite L block market, Connaught Circus, New Delhi ",
+    "hours": "24 hour-Contact for Hours",
+    "lat": "28.63257",
+    "long": "77.22308",
+    "name": "Bal Sahyog",
+    "need": 44,
+    "phone": "011-23411273",
+    "stock": 30
+  },
+  {
+    "address": "Plot no 74, Krishna nagar colony, hyderabad",
+    "hours": "6PM-9PM",
+    "lat": "17.407759",
+    "long": "78.475544",
+    "name": "Aadharana Home",
+    "need": 49,
+    "phone": "800800535,9346005469",
+    "stock": 21
+  }, 
+  {
+    "address": "B-17,Prathap nagar,Jodhpur, Rajastan",
+    "hours": "Contact for Hours",
+    "lat": "26.2918",
+    "long": "73.0364",
+    "name": "Vatsalyapuram Orphanage home",
+    "need": 55,
+    "phone": "8955688886",
+    "stock": 1
+  }, 
+  {
+    "address": "Gayathri nagar, Boduppal, Hyderabad",
+    "hours": "5:30 PM-7:00 PM",
+    "lat": "17.38842",
+    "long": "78.43724",
+    "name": "Agape Orphans",
+    "need": 33,
+    "phone": "91-40-27207782",
+    "stock": 2
+  }, 
+  {
+    "address": "Bodhgaya,Bihar",
+    "hours": "6:00 PM-6:45 PM",
+    "lat": "24.79248",
+    "long": "85.00771",
+    "name": "Gaya Muslim orphanage",
+    "need": 46,
+    "phone": "9472520041",
+    "stock": 25
+  }, 
+  {
+    "address": "Kali nagar,Bengali colony, Mahavir enclave part-1, New delhi",
+    "hours": "Contact for Hours",
+    "lat": "28.62036",
+    "long": "77.05795",
+    "name": "Bal Vihar Orphanage",
+    "need": 31,
+    "phone": "011-25038284",
+    "stock": 21
+  }, 
+  {
+    "address": "Strong Farm, Banasa,Champawat,Uttarkhand",
+    "hours": "24 hours-Contact for Hours",
+    "lat": "28.985506",
+    "long": "80.061578",
+    "name": "The Good Sheperd Agricultural Mission",
+    "need": 47,
+    "phone": "8859709702",
+    "stock": 34
+  }, 
+  {
+    "address": "A B Bal Ashram",
+    "hours": "6:30AM-12:00AM",
+    "lat": "27.35706",
+    "long": "76.1695",
+    "name": "Virat Nagar, Jaipur, Rajasthan ",
+    "need": 27,
+    "phone": "1422-216050",
+    "stock": 45
+  }, 
+  {
+    "address": "Sector 17A,Gurgaon, Haryana",
+    "hours": "6:00PM-Contact for Hours",
+    "lat": "28.4779",
+    "long": "77.0563",
+    "name": "Harmony House",
+    "need": 53,
+    "phone": "9643662069",
+    "stock": 37
+  }, 
+  {
+    "address": "Plot No. P-64.H.No.5-2-67. Mahadevapuram. Guialaramma. Hvderabad.500055",
+    "hours": "24 hours-Contact for Hours",
+    "lat": "17.49975",
+    "long": "78.431938",
+    "name": "Care And Love Orphanage",
+    "need": 44,
+    "phone": "9652121221",
+    "stock": 19
+  }, 
+  {
+    "address": "1st Cross, Cheemasandra GATE, near Bren Star, Aavalahalli, Bangalore, Karnataka",
+    "hours": "Contact for Hours",
+    "lat": "13.04",
+    "long": "77.7397",
+    "name": "MotherTeresa Navachetana Charitable Trust",
+    "need": 60,
+    "phone": "6363387310",
+    "stock": 44
+  }, 
+  {
+    "address": "Backside holy cross church, Old Gajuwaka, Vishakapatnam",
+    "hours": "Contact for Hours",
+    "lat": "17.589315",
+    "long": "83.204149",
+    "name": " boorthi Orphanage-AIM Spoorthi Welfare",
+    "need": 60,
+    "phone": "9951139166",
+    "stock": 43
+  }, 
+  {
+    "address": "Mount Mary Road, Bandra (west),Mumbai-",
+    "hours": "4:00 PM-5:00 PM",
+    "lat": "19.055263",
+    "long": "72.831581",
+    "name": "St. Catherine Of Siena School And Orphanage",
+    "need": 59,
+    "phone": "9326595671",
+    "stock": 0
+  }
+  
+]
