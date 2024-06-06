@@ -1,1 +1,3 @@
-# Happy-Donations
+# DonationHub
+
+Donations made easy
